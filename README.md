@@ -16,3 +16,7 @@ Planilha de despesas organizadas por função (Link: [despesa_funcao - josé aug
 Planilha de cadastro de fornecedores (Link: [fornecedores- José Augusto.xlsx](https://github.com/user-attachments/files/26732311/fornecedores-.Jose.Augusto.xlsx)
 )
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ebd2b0f-395f-41d3-b41c-a21a2d64c4df" />
+# Atividade de Informática - Excel
+Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo (Link:[multas_pagas - José Augusto.xlsx](https://github.com/user-attachments/files/26732431/multas_pagas.-.Jose.Augusto.xlsx)
+)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e28d1d4-a769-49d1-bfd0-34918b5b312f" />
