@@ -13,6 +13,6 @@ Planilha de despesas organizadas por função (Link: [despesa_funcao - josé aug
 )
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d287fa90-78a2-4257-be58-f31b8abfe0bb" />
 # Atividade de Informática - Excel
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ebd2b0f-395f-41d3-b41c-a21a2d64c4df" />
 Planilha de cadastro de fornecedores (Link: [fornecedores- José Augusto.xlsx](https://github.com/user-attachments/files/26732311/fornecedores-.Jose.Augusto.xlsx)
 )
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ebd2b0f-395f-41d3-b41c-a21a2d64c4df" />
