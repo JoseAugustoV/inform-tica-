@@ -7,6 +7,7 @@ https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content
 # Atividade de Informática - Excel
 Balancete de receitas de fevereiro com representação gráfica (Link:[balancete_receita - josé augusto.xlsx](https://github.com/user-attachments/files/26732096/balancete_receita.-.jose.augusto.xlsx)
  )
+BALANCETE - RECEITA
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11de933f-e96b-4f56-a9a8-adff9e59142c" />
 # Atividade de Informática - Excel
 Planilha de despesas organizadas por função (Link: [despesa_funcao - josé augusto.xlsx](https://github.com/user-attachments/files/26732254/despesa_funcao.-.jose.augusto.xlsx)
