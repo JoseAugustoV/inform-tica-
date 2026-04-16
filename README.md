@@ -26,9 +26,17 @@ SECRETARIA
 # Atividade de Informática - Excel
 Planilha de cadastro de fornecedores (Link: [fornecedores- José Augusto.xlsx](https://github.com/user-attachments/files/26732311/fornecedores-.Jose.Augusto.xlsx)
 )
+FORNECEDORES
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d805bb3a-def0-429f-be6a-f3e4ca41999d" />
+PLANILHA 2 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ebd2b0f-395f-41d3-b41c-a21a2d64c4df" />
 
 # Atividade de Informática - Excel
 Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo (Link:[multas_pagas - José Augusto.xlsx](https://github.com/user-attachments/files/26732431/multas_pagas.-.Jose.Augusto.xlsx)
 )
+MULTAS PAGAS
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a870e224-a63c-4f1b-b83f-d68db3434546" />
+PERGUNTA 1
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0462e73-64f3-4c70-b9a3-70bdcb6d17ab" />
+PERGUNTA 2
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e28d1d4-a769-49d1-bfd0-34918b5b312f" />
